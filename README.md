@@ -19,7 +19,7 @@ Modern UI UX Website.
 
 ### Links
 
-- Solution URL: [https://github.com/ErysCode7/gpt3](https://github.com/Hovering-Ace/GPT3)
+- Solution URL: [https://github.com/Hovering-Ace/GPT3](https://github.com/Hovering-Ace/GPT3)
 - Live Site URL: [https://gpt3-modern-web.vercel.app/](https://gpt3-modern-web.vercel.app/)
 
 
